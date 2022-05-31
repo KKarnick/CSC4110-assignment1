@@ -1,2 +1,2 @@
-"# Kristina Karnick
-##ad1797@wayne.edu
+" Kristina Karnick
+ad1797@wayne.edu"
