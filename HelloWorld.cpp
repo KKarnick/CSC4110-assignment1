@@ -1,4 +1,6 @@
 // Simple C++ program to display "Hello World" 
+//Author:  Kristina Karnick <ad1797@wayne.edu>
+
 // Header file for input output functions 
 #include<iostream>  
   
