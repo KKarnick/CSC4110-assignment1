@@ -1,1 +1,2 @@
-"# CSC4110-assignment1" 
+# Kristina Karnick
+##ad1797@wayne.edu
